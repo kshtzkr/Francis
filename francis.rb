@@ -8,8 +8,7 @@ class Francis
 			"Sure."
 		else
 			'Whatevs.'
-		end
-  				
+		end		
   end
 
   def is_empty?(message)
